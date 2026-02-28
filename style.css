@@ -322,7 +322,7 @@ body{
 }
  
 .about-container span{
-    font-size: 10px;
+    font-size: 11px;
     margin-top: -20px;
 }
 .sign-in:hover{
@@ -460,5 +460,6 @@ li{
     text-decoration: none;
     color: white;
 } 
+
 
  
